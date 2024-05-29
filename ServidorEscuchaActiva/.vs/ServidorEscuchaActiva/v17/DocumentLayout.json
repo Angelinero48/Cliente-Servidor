@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\ServidorEscuchaActiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DB18FC-E76C-452D-A2CB-B85780875768}|ServidorEscuchaActiva\\ServidorEscuchaActiva.csproj|c:\\users\\angel\\desktop\\servidorescuchaactiva\\servidorescuchaactiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DB18FC-E76C-452D-A2CB-B85780875768}|ServidorEscuchaActiva\\ServidorEscuchaActiva.csproj|solutionrelative:servidorescuchaactiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\ServidorEscuchaActiva\\ServidorEscuchaActiva\\Program.cs",
+              "RelativeDocumentMoniker": "ServidorEscuchaActiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\ServidorEscuchaActiva\\ServidorEscuchaActiva\\Program.cs",
+              "RelativeToolTip": "ServidorEscuchaActiva\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:15:56.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
